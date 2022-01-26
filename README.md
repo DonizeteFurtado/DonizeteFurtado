@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou em busca de uma oportunidade como dev front-end jr
 - 🌱 Estudando JavaScript, HTML, CSS e ReactJS
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 <div align="center">
   <a href="https://github.com/DonizeteFurtado">
