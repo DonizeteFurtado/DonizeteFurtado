@@ -12,7 +12,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="csharp" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+  <img align="center" alt="ReactJS" height="30" width="40" background="opacity" src="https://cdn.worldvectorlogo.com/logos/java.svg">
 </div>
   
 ##
