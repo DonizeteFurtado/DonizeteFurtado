@@ -17,7 +17,7 @@
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html5.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
 </div>
